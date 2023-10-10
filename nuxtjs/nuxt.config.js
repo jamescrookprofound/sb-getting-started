@@ -17,7 +17,7 @@ export default {
   },
 
   buildModules: [
-    ['@storyblok/nuxt-2/module', { accessToken: 'WUtvdgFREbQ1yQSYLrrkrgtt',
+    ['@storyblok/nuxt-2/module', { accessToken: 'dviN3r4bJ4lLmf1lvAGN9Qtt',
     apiOptions: {
       region: ''
     }
