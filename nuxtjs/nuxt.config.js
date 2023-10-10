@@ -1,4 +1,6 @@
 export default {
+  ssr: false,
+  target: 'server',
   head: {
     title: 'playground',
     htmlAttrs: {
@@ -15,7 +17,7 @@ export default {
   },
 
   buildModules: [
-    ['@storyblok/nuxt-2/module', { accessToken: 'd6IKUtAUDiKyAhpJtrLFcwtt',
+    ['@storyblok/nuxt-2/module', { accessToken: 'WUtvdgFREbQ1yQSYLrrkrgtt',
     apiOptions: {
       region: ''
     }
